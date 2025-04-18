@@ -1,4 +1,4 @@
-// typechat-message-handler.ts
+// MessageDataHandler.ts
 type M = {
   i: string;          // message ID
   t: number;          // timestamp
