@@ -1,4 +1,4 @@
-![TypeChat Screenshot](./screenshots/chat-ui.png)
+![TypeChat Logo](resources/tc.jpg)
 
 TypeChat is a modern, real-time online chatting application built with TypeScript. Connect with people around the world instantly with a sleek, responsive interface.
 
