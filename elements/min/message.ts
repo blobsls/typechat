@@ -1,8 +1,8 @@
-// typechat-message-core.ts
+// message.ts
 import { v4 as u } from 'uuid';
-import { C as e } from './typechat-event-distribution';
-
+import { C as e } from '../dist/events';
 type M = {
+  
   i: string;
   t: number;
   f: string;
