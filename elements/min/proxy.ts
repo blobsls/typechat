@@ -1,4 +1,4 @@
-// typechat-proxy-core.ts
+// proxy.ts
 type P = {
   i: string; // IP
   h: string; // Host
@@ -55,7 +55,6 @@ class H {
   }
 }
 
-// Ultra-compact usage example:
 const h = new H();
 
 // Process incoming connection
