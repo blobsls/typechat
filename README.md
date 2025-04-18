@@ -41,6 +41,4 @@ npm or yarn
 MongoDB Atlas account or local MongoDB installation
 
 Installation
-Clone the repository:
-
-bash
+Clone the repository
